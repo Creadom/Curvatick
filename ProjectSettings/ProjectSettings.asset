@@ -583,7 +583,7 @@ PlayerSettings:
       daydreamIconBackground: {fileID: 0}
   cloudServicesEnabled:
     UNet: 1
-  facebookSdkVersion: 7.9.1
+  facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2
   cloudProjectId: 2fbe6eab-14df-405f-9a09-8c92003e5e95
   projectName: Curvatick
